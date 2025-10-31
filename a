@@ -1,12 +1,9 @@
 Situation actuelle
 
-Formulaires dans notre gestionnaire de campagne Customer Insight
-Sondages dans Customer voice
+Actuellement, les formulaires créés dans le gestionnaire de campagne Customer Insights et les sondages réalisés dans Customer Voice fonctionnent de manière indépendante.
+Il n’existe aucune synchronisation native entre les deux outils.
 
-Les deux ne se parlent pas.
+Cependant, il est possible d’établir une connexion entre eux en activant un paramètre (“switch”) qui permet la communication entre Customer Insights et Customer Voice.
+Cette intégration rend possible l’envoi de courriels depuis Customer Voice tout en assurant le suivi des interactions dans les deux environnements.
 
-On a la possibilité de les faire parler de la manière suivante:
-On active une switch qui permet de faire parler les deux produits.
-On peut envoyer un courriel depuis customer voice qui permet de tracker les deux.
-
-ça suppose d'uploader une liste de courriels dans customer voice et de le mettre à jour
+Pour mettre en place cette communication, il est nécessaire de téléverser une liste de contacts (courriels) dans Customer Voice et de la maintenir à jour régulièrement, afin de garantir la cohérence des données et le bon fonctionnement du suivi.
