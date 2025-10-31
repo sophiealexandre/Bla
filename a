@@ -1,9 +1,10 @@
 Situation actuelle
 
-Actuellement, les formulaires créés dans le gestionnaire de campagne Customer Insights et les sondages réalisés dans Customer Voice fonctionnent de manière indépendante.
-Il n’existe aucune synchronisation native entre les deux outils.
+Actuellement, les formulaires créés dans le gestionnaire de campagne Customer Insights et les sondages réalisés dans Customer Voice fonctionnent de manière indépendante. Il n’existe pas de synchronisation native entre les deux outils.
 
-Cependant, il est possible d’établir une connexion entre eux en activant un paramètre (“switch”) qui permet la communication entre Customer Insights et Customer Voice.
-Cette intégration rend possible l’envoi de courriels depuis Customer Voice tout en assurant le suivi des interactions dans les deux environnements.
+Cependant, il est possible d’établir une connexion entre eux en activant un paramètre (“switch”) qui permet la communication entre Customer Insights et Customer Voice mais les applications restent limitées et demande un certain nombre de manipulations.
 
-Pour mettre en place cette communication, il est nécessaire de téléverser une liste de contacts (courriels) dans Customer Voice et de la maintenir à jour régulièrement, afin de garantir la cohérence des données et le bon fonctionnement du suivi.
+Est-ce qu'Azure permet de faire le pont?
+Est-ce qu'il y a un plugin dans Craft qui permet de faire ce genre de choses?
+Est-ce que Tink a prévu ?
+Pensez-vous impliquer l'équipe du CRM?
