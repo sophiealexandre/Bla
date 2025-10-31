@@ -1,10 +1,23 @@
 Situation actuelle
 
-Actuellement, les formulaires créés dans le gestionnaire de campagne Customer Insights et les sondages réalisés dans Customer Voice fonctionnent de manière indépendante. Il n’existe pas de synchronisation native entre les deux outils.
+Bien sûr, il serait préférable d’utiliser Customer Voice pour la collecte et le suivi des réponses clients.
+Cependant, à ce jour, les formulaires créés dans Customer Insights – Campaigns et les sondages réalisés dans Customer Voice fonctionnent de manière indépendante.
+Il n’existe aucune synchronisation native entre ces deux plateformes.
 
-Cependant, il est possible d’établir une connexion entre eux en activant un paramètre (“switch”) qui permet la communication entre Customer Insights et Customer Voice mais les applications restent limitées et demande un certain nombre de manipulations.
+Une option technique permet d’activer un paramètre de connexion (“switch”) pour faire communiquer partiellement les outils.
+Cette approche reste toutefois limitée et requiert des manipulations manuelles (mise à jour des listes de contacts, suivi des réponses, alignement des identifiants).
 
-Est-ce qu'Azure permet de faire le pont?
-Est-ce qu'il y a un plugin dans Craft qui permet de faire ce genre de choses?
-Est-ce que Tink a prévu ?
-Pensez-vous impliquer l'équipe du CRM?
+⸻
+
+Points à évaluer
+	•	Azure : peut-il être utilisé comme couche intermédiaire pour centraliser les données clients et faciliter la communication entre Customer Voice et Customer Insights ?
+	•	Craft CMS : existe-t-il un plugin ou une extension permettant de relier le CMS à l’écosystème Dynamics 365 ?
+	•	Tink : des développements spécifiques sont-ils prévus pour soutenir ce type d’intégration ?
+	•	Équipe CRM : leur implication est-elle envisagée pour définir une solution pérenne (via Dataverse, API ou Power Automate) ?
+
+⸻
+
+Conclusion
+
+Je reste ouverte à la démonstration d’une solution technique si elle existe réellement.
+Cela fait toutefois plus de deux ans que je travaille sur le sujet, et à ce jour, aucune intégration complète n’est possible sans développement spécifique.
