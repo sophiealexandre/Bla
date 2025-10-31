@@ -1,0 +1,12 @@
+Situation actuelle
+
+Formulaires dans notre gestionnaire de campagne Customer Insight
+Sondages dans Customer voice
+
+Les deux ne se parlent pas.
+
+On a la possibilité de les faire parler de la manière suivante:
+On active une switch qui permet de faire parler les deux produits.
+On peut envoyer un courriel depuis customer voice qui permet de tracker les deux.
+
+ça suppose d'uploader une liste de courriels dans customer voice et de le mettre à jour
